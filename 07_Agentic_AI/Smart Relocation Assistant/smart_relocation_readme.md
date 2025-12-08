@@ -23,7 +23,7 @@ Follow these steps to set up and run the application locally.
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/your-username/smart-relocation-assistant.git
+git clone https://github.com/ahmadsanafarooq/Data-Science-AI-Bootcamp-ATOMCAMP/tree/main/07_Agentic_AI
 cd smart-relocation-assistant
 ```
 
