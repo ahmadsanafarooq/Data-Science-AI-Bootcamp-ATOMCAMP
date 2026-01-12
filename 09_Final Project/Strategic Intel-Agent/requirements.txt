@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langgraph
+langchain-community
+tavily-python
+requests
+sendgrid
+streamlit
+langgraph-checkpoint-sqlite
+pydantic
